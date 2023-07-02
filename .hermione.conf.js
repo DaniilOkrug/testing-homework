@@ -18,4 +18,5 @@ module.exports = {
       enabled: true,
     },
   },
+  baseUrl: 'http://localhost:3000'
 };
